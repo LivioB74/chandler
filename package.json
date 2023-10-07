@@ -34,7 +34,7 @@
     "lint-staged": "^13.2.2",
     "lodash": "^4.17.21",
     "mitt": "^3.0.0",
-    "postcss": "^8.4.23",
+    "postcss": "^8.4.31",
     "postcss-import": "^15.1.0",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.2.8",
